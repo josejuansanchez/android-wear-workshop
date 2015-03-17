@@ -13,6 +13,7 @@ The workshop is focused in how to build apps that run directly on wearables.
 
 ### Resources
 * [Working with Genymotion and Android Wear](http://joelifernandes.com/android/working-genymotion-android-wear/)
+* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
 ### Libraries
 * https://github.com/takahirom/WearHttp
