@@ -10,6 +10,7 @@ The workshop is focused in how to build apps that run directly on wearables.
 * [Packaging Wearable Apps](http://developer.android.com/training/wearables/apps/packaging.html)
 * [Creating Custom Layouts](http://developer.android.com/training/wearables/apps/layouts.html)
 * Working with sensors
+* Import Google code samples from GitHub.
 
 ### Resources
 * [Working with Genymotion and Android Wear](http://joelifernandes.com/android/working-genymotion-android-wear/)
