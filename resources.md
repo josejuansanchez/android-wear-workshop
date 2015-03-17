@@ -1,5 +1,6 @@
 ### Resources
 * [Adding Voice Capabilities](http://developer.android.com/training/wearables/apps/voice.html)
+* [Working with Genymotion and Android Wear](http://joelifernandes.com/android/working-genymotion-android-wear/)
 
 ### Libraries
 * https://github.com/takahirom/WearHttp
