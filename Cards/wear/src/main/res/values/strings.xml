@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+</resources>
