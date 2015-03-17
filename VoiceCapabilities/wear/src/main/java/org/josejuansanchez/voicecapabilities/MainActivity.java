@@ -14,7 +14,7 @@ import java.util.List;
 
 public class MainActivity extends Activity {
 
-    private final String TAG = "Wear-MainActivity";
+    private static final String TAG = "Wear-MainActivity";
     private Button mButton;
 
     @Override
